@@ -1,0 +1,220 @@
+Vehicle Name,Vehicle Age(year),Vehicle Damage,Insurance Type,Duration(year),premium amount
+alto lxi,10,yes,third party,1,2094
+a-star,8,no,third party,1,2094
+ alto 800,5,yes,first party,1,2978
+zen,12,no,third party,1,2094
+maruthi suzuki 800,14,no,third party,1,2094
+zen,12,no,third party,1,2094
+wagonar,6,no,first party,1,4545
+wagonar vxi+,4,no,first party,1,5536
+swift,6,no,first party,1,5834
+swift dezire,5,no,first party,1,6036
+ritz,6,yes,first party,1,5397
+ignis,3,yes,first party,1,8637
+balano,2,no,first party,1,14744
+celerio,3,no,third party,1,7000
+ciaz,2,no,first party,1,11280
+s-cross,2,yes,first party,1,17585
+eeco,2,no,first party,1,6668
+vitara brezza,3,no,first party,1,9705
+alto k10,5,no,third party,1,2094
+hyundai i10,4,yes,first party,1,6930
+hyundai i20,5,yes,first party,1,7364
+hyundai creta,2,yes,first party,1,15406
+hyundai venue,2,no,first party,1,14039
+hyundai verna,2,no,first party,1,16034
+ hyundai aura,3,no,third party,1,3416
+hyundai eon,3,no,third party,1,2094
+hyundai tucson,2,no,first party,1,22885
+hyundai santra,4,no,third party,1,2094
+mahindra kuv 100,3,no,third party,1,3416
+ignis,3,yes,first party,1,7825
+mahindra verito,2,yes,first party,1,9641
+mahindra bolero,3,yes,first party,1,9641
+ mahindra thar,2,no,first party,1,15088
+mahindra xylo,2,no,third party,1,7897
+ mahindra scorpio,1,yes,first party,1,21187
+ mahindra rexton,2,no,first party,1,41658
+mahindra marazzo,3,yes,first party,1,22288
+ mahindra xuv,5,yes,third party,1,7897
+ mahindra scorpio,1,no,first party,1,7897
+alto,8,no,third party,1,2094
+tata nano,6,no,third party,1,2094
+tata nexon,2,no,first party,1,19927
+tata tiago,2,no,first party,1,12510
+tata harrier,2,yes,first party,1,32916
+ford ecosport,4,no,first party,1,8427
+ford endeveor,1,yes,first party,1,14114
+toyota innova,2,no,first party,1,17317
+toyota fortuner,1,no,first party,1,40454
+urban cruiser,1,no,first party,1,11113
+glanza,2,yes,first party,1,10041
+maruthi suzuki 800,10,yes,third party,1,2094
+tata nano,8,no,third party,1,2094
+tata nexon,1,no,first party,1,19927
+hyundai i20,2,yes,first party,1,6990
+a-star,7,no,third party,1,2094
+hyundai venue,2,yes,first party,1,14038
+hyundai eon,3,no,third party,1,2094
+vitara brezza,1,no,first party,1,14365
+hyundai i20,3,no,first party,1,6990
+toyota innova,2,no,first party,1,17317
+tata harrier,2,no,first party,1,32916
+ mahindra scorpio,1,no,third party,1,7897
+balano,2,no,first party,1,14744
+ritz,6,no,third party,1,5397
+hyundai creta,3,yes,first party,1,11989
+mahindra scorpio,2,no,first party,1,7100
+alto,10,no,third party,1,2094
+swift,8,no,first party,1,5503
+tata harrier,2,no,first party,1,32917
+toyoto fortuner,2,no,first party,1,34622
+mg hector,1,no,first party,1,32376
+mg hector,3,yes,first party,1,20438
+hyundai aura,4,no,third party,1,3416
+maruthi suzuki ertiga,2,no,first party,1,13694
+wolkswagan polo,4,no,first party,1,21261
+ford ecosport,5,no,first party,1,7516
+marithi suzuki 800,12,no,third party,1,2094
+tata tiago,3,no,third party,1,11320
+tata nano,8,no,third party,1,2094
+hyundai i10,4,no,first party,1,6930
+hyundai i20,4,yes,first party,1,8450
+maruthi suzuki celero,6,no,third party,1,2094
+ toyoto innova,3,no,first party,1,16850
+toyota glanza,1,no,first party,1,14650
+toyota urban cruiser,1,no,first party,1,11113
+swift,2,no,third party,1,3648
+swift dezire,2,yes,first party,1,11882
+wagonar,3,yes,third party,1,3416
+wolkswagan polo,2,yes,first party,1,34336
+wolkswagan taigun,1,no,first party,1,59370
+vitara brezza,2,no,first party,1,10815
+alto,7,yes,third party,1,2094
+a-star,7,no,third party,1,2094
+ford figo,5,no,third party,1,3416
+mahindra thar,3,no,first party,1,14310
+mahindra bolero,2,no,first party,1,10310
+kia seltos,1,no,first party,1,24942
+kia sonet,2,yes,first party,1,17332
+balano,3,no,first party,1,13823
+swift,2,yes,third party,1,3643
+hyundai venue,3,no,first party,1,13542
+hyundai creta,3,no,first party,1,14213
+wagonar,6,no,third party,1,2094
+tata tiago,3,yes,first party,1,11456
+tata nano,8,yes,third party,1,2094
+mahindra thar,4,no,first party,1,13910
+wolkswagan polo,3,yes,first party,1,28334
+vitara brezza,2,no,first party,1,10815
+mahindra scorpio,3,yes,third party,1,7897
+alto,8,no,third party,1,2094
+balano,4,no,first party,1,13195
+mg hector,2,no,first party,1,31287
+mahindra scorpio,4,no,third party,1,7897
+balano,2,no,first party,1,15820
+ford endeveor,3,no,first party,1,14114
+ford ecosport,5,no,first party,1,7516
+s-cross,2,no,first party,1,17585
+kia seltos,2,yes,first party,1,22935
+tata nexon,2,yes,first party,1,16656
+tata nano,8,no,third party,1,2094
+hyundai i10,3,no,first party,1,8374
+swift,5,no,third party,1,2094
+ignis,2,no,first party,1,11413
+balano,3,yes,first party,1,13245
+ritz,7,no,third party,1,2094
+mahindra xylo,6,yes,third party,1,7897
+mahindra thar,4,yes,first party,1,16874
+mahindra scorpio,4,no,first party,1,13437
+tata tiago,2,no,first party,1,12510
+swift,4,no,third party,1,2094
+alto,8,yes,third party,1,2094
+tata nexon,2,yes,first party,1,16656
+hyundai venue,2,no,first party,1,14039
+hyundai creta,1,no,first party,1,16510
+ford ecosport,4,yes,third party,1,8427
+ford figo,4,yes,first party,1,3416
+maruthi suzuki ertiga,4,no,first party,1,8632
+mahindra scorpio,4,no,first party,1,13437
+mg hector,2,no,first party,1,31287
+kia seltos,2,no,first party,1,22935
+alto,6,yes,third party,1,2094
+tata tiago,2,no,third party,1,3416
+mahindra thar,4,no,first party,1,16874
+toyota glanza,2,yes,first party,1,10024
+toyota urban cruiser,2,no,first party,1,10210
+vitara brezza,3,no,first party,1,9705
+mahindra bolero,5,no,first party,1,12075
+s-cross,2,no,third party,1,3416
+hyundai i10,2,no,first party,1,11335
+hyundai venue,2,yes,first party,1,14039
+kia seltos,2,yes,first party,1,21093
+kia sonet,1,no,first party,1,18358
+mahindra thar,2,no,first party,1,15088
+alto,1,no,third party,1,2094
+mahindra bolero,1,yes,first party,1,22619
+mg hector,2,no,first party,1,31287
+kia seltos,2,no,first party,1,22935
+alto,6,yes,third party,1,2094
+tata tiago,2,no,third party,1,3416
+wolkswagan taigun,1,no,first party,1,59370
+vitara brezza,2,no,first party,1,10815
+alto,7,yes,third party,1,2094
+a-star,7,no,third party,1,2094
+ford figo,5,no,third party,1,3416
+mahindra thar,3,no,first party,1,14310
+mahindra bolero,2,no,first party,1,10310
+kia seltos,1,no,first party,1,24942
+kia sonet,2,yes,first party,1,17332
+balano,3,no,first party,1,13823
+swift,2,yes,third party,1,3643
+hyundai venue,3,no,first party,1,13542
+hyundai creta,3,no,first party,1,14213
+wagonar,6,no,third party,1,2094
+tata tiago,3,yes,first party,1,11456
+tata nano,8,yes,third party,1,2094
+mahindra thar,4,no,first party,1,13910
+wolkswagan polo,3,yes,first party,1,28334
+vitara brezza,2,no,first party,1,10815
+mahindra scorpio,3,yes,third party,1,7897
+alto,8,no,third party,1,2094
+balano,4,no,first party,1,13195
+kia seltos,2,yes,first party,1,22935
+tata nexon,2,yes,first party,1,16656
+tata nano,8,no,third party,1,2094
+hyundai i10,3,no,first party,1,8374
+swift,5,no,third party,1,2094
+ignis,2,no,first party,1,11413
+balano,3,yes,first party,1,13245
+ritz,7,no,third party,1,2094
+mahindra xylo,6,yes,third party,1,7897
+mahindra thar,4,yes,first party,1,16874
+mahindra scorpio,4,no,first party,1,13437
+tata tiago,2,no,first party,1,12510
+swift,4,no,third party,1,2094
+alto,8,yes,third party,1,2094
+tata nexon,2,yes,first party,1,16656
+hyundai venue,2,no,first party,1,14039
+hyundai creta,1,no,first party,1,16510
+ford ecosport,4,yes,third party,1,8427
+ford figo,4,yes,first party,1,3416
+ignis,3,yes,first party,1,8637
+balano,2,no,first party,1,14744
+celerio,3,no,third party,1,7000
+ciaz,2,no,first party,1,11280
+s-cross,2,yes,first party,1,17585
+eeco,2,no,first party,1,6668
+vitara brezza,3,no,first party,1,9705
+alto k10,5,no,third party,1,2094
+hyundai i10,4,yes,first party,1,6930
+hyundai i20,5,yes,first party,1,7364
+hyundai creta,2,yes,first party,1,15406
+hyundai venue,2,no,first party,1,14039
+hyundai verna,2,no,first party,1,16034
+ hyundai aura,3,no,third party,1,3416
+hyundai eon,3,no,third party,1,2094
+hyundai tucson,2,no,first party,1,22885
+hyundai santra,4,no,third party,1,2094
+mahindra kuv 100,3,no,third party,1,3416
+ignis,3,yes,first party,1,7825

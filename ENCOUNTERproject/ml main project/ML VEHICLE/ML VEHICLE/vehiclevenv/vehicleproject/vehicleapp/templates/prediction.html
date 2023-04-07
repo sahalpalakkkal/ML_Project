@@ -1,0 +1,140 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      section {
+        min-height: 100vh;
+        /* background-color: black; */
+        color: rgb(255, 255, 255);
+        background-image: url("{% static 'images/car.jpg'%}");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
+      .div1 {
+        text-align: center;
+        font-size: 3vw;
+      }
+      .div1 h5 {
+        font-weight: 500;
+        line-height: 25vh;
+      }
+      .div2 {
+        width: 30vw;
+        background-color: rgba(0, 0, 0, 0.114);
+        margin: 0 auto;
+        font-size: 1.5rem;
+        padding-top: 3vh;
+        box-shadow: 2px 2px 10px rgb(70, 69, 69) inset;
+        border-radius: 5px;
+      }
+      .text-field {
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        min-width: 20vw;
+        justify-content: center;
+        line-height: 8.3vh;
+        /* background-color: rgba(0, 0, 0, 0.114); */
+      }
+      input {
+        height: 3.9vh;
+        border: 1px solid black;
+        background-color: rgb(218, 217, 217);
+        font-size: 1rem;
+      }
+      .submit{
+        /* color: aliceblue; */
+        min-width: 6vw;
+        margin-left: 2vw;
+        margin: 5vh 0;
+        border-radius: 5px;
+        font-size: 1rem;
+        font-weight: 700;
+      }
+    </style>
+  </head>
+  <body>
+    <section>
+      <div class="div1">
+        <h1>Vehicle insurance Prediction</h1>
+        <h5>Enter your input</h5>
+      </div>
+      <div class="div2">
+        <form action="result" onsubmit="result()">
+          <div class="text-field">
+            <label for="">Vehicle name:&nbsp</label>
+            <input
+              type="text"
+              name="Vehicle name"
+              minlength="1"
+              maxlength="20"
+              required
+            />
+          </div>
+          <!-- 2 -->
+          <div class="text-field">
+            <label for="">Vehicle age:&nbsp</label>
+            <input
+              type="text"
+              name="Vehicle age"
+              minlength="1"
+              maxlength="20"
+              required
+              style="margin-left: 1vw"
+            />
+          </div>
+          <!-- 3 -->
+          <div class="text-field">
+            <label for="">Vehicle damage:&nbsp</label>
+            <input
+              type="text"
+              name="Vehicle damage"
+              minlength="1"
+              maxlength="20"
+              required
+              style="margin-right: 1.8vw"
+              
+            />
+          </div>
+          <!-- 4 -->
+          <div class="text-field">
+            <label for="">Insurance type:&nbsp</label>
+            <input
+              type="text"
+              name="Insurance type"
+              minlength="1"
+              maxlength="20"
+              required
+              style="margin-right: 1vw"
+            />
+          </div>
+          <!-- 5 -->
+          <div class="text-field">
+            <label for="">Duration:&nbsp</label>
+            <input
+              type="text"
+              name="Duration"
+              minlength="1"
+              maxlength="20"
+              required
+              style="margin-left: 2.7vw"
+            />
+          </div>
+          <!-- submit -->
+          <div class="text-field"><input class="submit"type="submit" value="Predict" /><h2>premium amount is {{result2}}</h2></div>
+        </form>
+      </div>
+    </section>
+  </body>
+</html>
